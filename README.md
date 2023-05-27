@@ -2,13 +2,13 @@
 
 #### Main education
 
-🎓 HarvardX CS50 Web Programming with Python and JavaScript - `Full-stack developer`
+💻 HarvardX CS50 Web Programming with Python and JavaScript - `Full-stack developer`
 
 🎓 Università Cattolica - `Media Education Manager`
 
-🎓 Università di Bari - `Lettere e Filosofia`
+📖 Università di Bari - `Lettere e Filosofia`
 
-🎓 Conservatorio di Matera - `Pianoforte`
+🎹 Conservatorio di Matera - `Pianoforte`
 
 Musician and teacher, expert in educational technologies, and recently full-stack developer proficient mostly in Python, Django, JavaScript and Git.   
 
