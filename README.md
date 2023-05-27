@@ -12,7 +12,6 @@
 
 Musician and teacher, expert in educational technologies, and recently full-stack developer proficient mostly in Python, Django, JavaScript and Git.   
 
-between the beauty of the art and the power of innovation
 
 
 
