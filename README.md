@@ -2,7 +2,7 @@
 
 #### Main education
 
-💻 HarvardX CS50 Web Programming with Python and JavaScript - `Full-stack developer`
+💻 HarvardX CS50 Web Programming with Python and JavaScript - `Jr Full-stack developer`
 
 🎓 Università Cattolica - `Media Education Manager`
 
